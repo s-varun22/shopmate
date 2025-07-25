@@ -40,4 +40,6 @@ Remember, this is an assignment and not a full fledged project. Deliver the prob
 
 The application is deployed on Netlify
 
-Access Point:
+Access Point: https://shopmate-varun.netlify.app
+
+This application is also hosted on my own domain: https://shop-mate.varun-srivastava.com
