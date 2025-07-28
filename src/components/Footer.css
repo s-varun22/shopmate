@@ -1,0 +1,19 @@
+footer {
+	bottom: 0;
+	left: 0;
+	min-height: 15px;
+	text-align: center;
+	align-content: center;
+	padding: 15px;
+	background-color: #ffffff;
+	box-shadow: var(--box-shadow);
+	border-top: 2px;
+	border: #525252;
+}
+
+footer span {
+	font-size: 15px;
+	text-align: center;
+	cursor: pointer;
+	color: #525252;
+}

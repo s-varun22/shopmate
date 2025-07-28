@@ -2,7 +2,7 @@
 
 ### Problem Statement
 
-You need to design a website according to it with two pages.
+Design a website with two pages.
 
 - Home
 - Cart
